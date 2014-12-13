@@ -1,21 +1,15 @@
-##Midterm 2
+##Final Question 2
 
 ####Aim of the project:
-1. derive demensionless differential equations that describe the radial mass distriubution inside a white dwarf star
-1. write program that sovles equations with central denisty = 10
-1. plot density vs radius
-1. write program that solves equations with central density .08 - 1000000
-1. plot dependence of radius of white dwarf vs its mass
+1. derive demensionless differential equations that describe the motion of verticly driven pendulum
+1. write program that sovles equations with a/l parameter = 0.01 and initial conditions phi(0) =.99 pi, phidot(0) = 0
+1. determine critical value of ommega where pendulum looses stability
+1. plot 2 graphs.  one typical stable one typical unstable
 
-![MT2](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-velocity.png)
+![Final 2](https://github.com/SteveShaw-phys2200/FinalQuestion2/blob/master/pend-stable.png)
 
-* note max effecient velocity for R=10, glider scrubs speed by looping until reaching steady glide
+* note oscillation about pi (straight up)
 
-![HW8 problem 2](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-angle.png)
+![Final 2.1](https://github.com/SteveShaw-phys2200/FinalQuestion2/blob/master/pend-unstable.png)
 
-* note glider has greatest range with slightly negitive launch angle, intial velocity + lift is directed best down range under these conditions
-
-![HW8 problem 3](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-height.png)
-
-* note once glider srubs bit of speed it enters steady dive
-
+* note motion is continous circular motion in one direction
