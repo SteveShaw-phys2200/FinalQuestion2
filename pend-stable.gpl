@@ -1,0 +1,9 @@
+unset key
+set style data line
+
+set term png
+set o "pend-stable.png"
+set title "Stable ommega 150"
+set xlabel "time"
+set ylabel "angle"
+plot [] [] "res1" u 1:2
